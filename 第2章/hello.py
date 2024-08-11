@@ -10,6 +10,7 @@ def user(name):
     return '<h1>Hello,{}</h1>'.format(name)
 
 
+#ターミナル
 #$pip install flask
 '''
 $set flask_app=hello.py
